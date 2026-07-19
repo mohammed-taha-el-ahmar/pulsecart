@@ -1,0 +1,21 @@
+# Copy to ~/.dbt/profiles.yml or point DBT_PROFILES_DIR here.
+#
+# The `local` target uses DuckDB against the same file the enricher writes to.
+# The `aws` target uses Redshift Serverless.
+pulsecart:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: "{{ env_var('PULSECART_DUCKDB_PATH', '../artifacts/pulsecart.duckdb') }}"
+      threads: 4
+
+    aws:
+      type: redshift
+      host: "{{ env_var('REDSHIFT_HOST') }}"
+      port: 5439
+      user: "{{ env_var('REDSHIFT_USER') }}"
+      password: "{{ env_var('REDSHIFT_PASSWORD') }}"
+      dbname: "{{ env_var('PULSECART_REDSHIFT_DATABASE', 'pulsecart') }}"
+      schema: analytics
+      threads: 4

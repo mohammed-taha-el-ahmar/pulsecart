@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Landing zone for the streaming pipeline (DuckDB locally, Redshift MV in AWS).
+    tables:
+      - name: enriched_events
+        description: EnrichedEvent rows produced by the Lambda enricher. On Redshift this is a raw SUPER blob; on DuckDB it has named columns.

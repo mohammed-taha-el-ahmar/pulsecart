@@ -1,0 +1,1602 @@
+[
+  {
+    "product_id": "P0001",
+    "category": "home",
+    "price": 379.41,
+    "popularity_score": 0.1559,
+    "avg_rating": 3.1,
+    "days_since_launch": 841
+  },
+  {
+    "product_id": "P0002",
+    "category": "sports",
+    "price": 42.18,
+    "popularity_score": 0.3396,
+    "avg_rating": 4.82,
+    "days_since_launch": 220
+  },
+  {
+    "product_id": "P0003",
+    "category": "electronics",
+    "price": 38.95,
+    "popularity_score": 0.1749,
+    "avg_rating": 3.48,
+    "days_since_launch": 565
+  },
+  {
+    "product_id": "P0004",
+    "category": "beauty",
+    "price": 28.35,
+    "popularity_score": 0.3197,
+    "avg_rating": 4.89,
+    "days_since_launch": 646
+  },
+  {
+    "product_id": "P0005",
+    "category": "sports",
+    "price": 379.35,
+    "popularity_score": 0.333,
+    "avg_rating": 3.79,
+    "days_since_launch": 227
+  },
+  {
+    "product_id": "P0006",
+    "category": "electronics",
+    "price": 224.88,
+    "popularity_score": 0.0177,
+    "avg_rating": 3.84,
+    "days_since_launch": 554
+  },
+  {
+    "product_id": "P0007",
+    "category": "electronics",
+    "price": 230.51,
+    "popularity_score": 0.3139,
+    "avg_rating": 4.36,
+    "days_since_launch": 106
+  },
+  {
+    "product_id": "P0008",
+    "category": "sports",
+    "price": 230.63,
+    "popularity_score": 0.0353,
+    "avg_rating": 3.19,
+    "days_since_launch": 730
+  },
+  {
+    "product_id": "P0009",
+    "category": "electronics",
+    "price": 227.93,
+    "popularity_score": 0.3832,
+    "avg_rating": 3.99,
+    "days_since_launch": 545
+  },
+  {
+    "product_id": "P0010",
+    "category": "beauty",
+    "price": 312.01,
+    "popularity_score": 0.2168,
+    "avg_rating": 4.85,
+    "days_since_launch": 371
+  },
+  {
+    "product_id": "P0011",
+    "category": "home",
+    "price": 103.13,
+    "popularity_score": 0.0323,
+    "avg_rating": 4.56,
+    "days_since_launch": 84
+  },
+  {
+    "product_id": "P0012",
+    "category": "sports",
+    "price": 123.6,
+    "popularity_score": 0.2451,
+    "avg_rating": 3.69,
+    "days_since_launch": 460
+  },
+  {
+    "product_id": "P0013",
+    "category": "home",
+    "price": 245.54,
+    "popularity_score": 0.0054,
+    "avg_rating": 4.02,
+    "days_since_launch": 169
+  },
+  {
+    "product_id": "P0014",
+    "category": "home",
+    "price": 65.03,
+    "popularity_score": 0.2391,
+    "avg_rating": 3.08,
+    "days_since_launch": 685
+  },
+  {
+    "product_id": "P0015",
+    "category": "electronics",
+    "price": 307.01,
+    "popularity_score": 0.3284,
+    "avg_rating": 4.75,
+    "days_since_launch": 322
+  },
+  {
+    "product_id": "P0016",
+    "category": "home",
+    "price": 279.64,
+    "popularity_score": 0.3533,
+    "avg_rating": 4.16,
+    "days_since_launch": 468
+  },
+  {
+    "product_id": "P0017",
+    "category": "electronics",
+    "price": 336.79,
+    "popularity_score": 0.8924,
+    "avg_rating": 3.95,
+    "days_since_launch": 681
+  },
+  {
+    "product_id": "P0018",
+    "category": "electronics",
+    "price": 28.96,
+    "popularity_score": 0.4921,
+    "avg_rating": 4.29,
+    "days_since_launch": 698
+  },
+  {
+    "product_id": "P0019",
+    "category": "beauty",
+    "price": 117.42,
+    "popularity_score": 0.1488,
+    "avg_rating": 4.34,
+    "days_since_launch": 24
+  },
+  {
+    "product_id": "P0020",
+    "category": "beauty",
+    "price": 145.41,
+    "popularity_score": 0.3732,
+    "avg_rating": 3.99,
+    "days_since_launch": 224
+  },
+  {
+    "product_id": "P0021",
+    "category": "home",
+    "price": 56.09,
+    "popularity_score": 0.0613,
+    "avg_rating": 3.78,
+    "days_since_launch": 893
+  },
+  {
+    "product_id": "P0022",
+    "category": "beauty",
+    "price": 36.83,
+    "popularity_score": 0.2018,
+    "avg_rating": 4.1,
+    "days_since_launch": 141
+  },
+  {
+    "product_id": "P0023",
+    "category": "beauty",
+    "price": 346.27,
+    "popularity_score": 0.0775,
+    "avg_rating": 3.83,
+    "days_since_launch": 368
+  },
+  {
+    "product_id": "P0024",
+    "category": "beauty",
+    "price": 383.3,
+    "popularity_score": 0.0228,
+    "avg_rating": 3.35,
+    "days_since_launch": 238
+  },
+  {
+    "product_id": "P0025",
+    "category": "apparel",
+    "price": 9.76,
+    "popularity_score": 0.6907,
+    "avg_rating": 3.36,
+    "days_since_launch": 289
+  },
+  {
+    "product_id": "P0026",
+    "category": "electronics",
+    "price": 62.54,
+    "popularity_score": 0.2858,
+    "avg_rating": 4.22,
+    "days_since_launch": 327
+  },
+  {
+    "product_id": "P0027",
+    "category": "apparel",
+    "price": 277.74,
+    "popularity_score": 0.2657,
+    "avg_rating": 4.24,
+    "days_since_launch": 693
+  },
+  {
+    "product_id": "P0028",
+    "category": "electronics",
+    "price": 185.37,
+    "popularity_score": 0.7586,
+    "avg_rating": 4.9,
+    "days_since_launch": 697
+  },
+  {
+    "product_id": "P0029",
+    "category": "sports",
+    "price": 159.99,
+    "popularity_score": 0.1592,
+    "avg_rating": 3.21,
+    "days_since_launch": 650
+  },
+  {
+    "product_id": "P0030",
+    "category": "beauty",
+    "price": 29.59,
+    "popularity_score": 0.0045,
+    "avg_rating": 3.42,
+    "days_since_launch": 167
+  },
+  {
+    "product_id": "P0031",
+    "category": "electronics",
+    "price": 139.32,
+    "popularity_score": 0.0028,
+    "avg_rating": 3.0,
+    "days_since_launch": 155
+  },
+  {
+    "product_id": "P0032",
+    "category": "sports",
+    "price": 45.08,
+    "popularity_score": 0.1322,
+    "avg_rating": 3.05,
+    "days_since_launch": 896
+  },
+  {
+    "product_id": "P0033",
+    "category": "apparel",
+    "price": 247.56,
+    "popularity_score": 0.0221,
+    "avg_rating": 3.5,
+    "days_since_launch": 356
+  },
+  {
+    "product_id": "P0034",
+    "category": "sports",
+    "price": 148.84,
+    "popularity_score": 0.0151,
+    "avg_rating": 4.7,
+    "days_since_launch": 478
+  },
+  {
+    "product_id": "P0035",
+    "category": "beauty",
+    "price": 196.11,
+    "popularity_score": 0.0074,
+    "avg_rating": 3.2,
+    "days_since_launch": 351
+  },
+  {
+    "product_id": "P0036",
+    "category": "home",
+    "price": 194.06,
+    "popularity_score": 0.4789,
+    "avg_rating": 4.03,
+    "days_since_launch": 211
+  },
+  {
+    "product_id": "P0037",
+    "category": "sports",
+    "price": 147.89,
+    "popularity_score": 0.4762,
+    "avg_rating": 4.83,
+    "days_since_launch": 777
+  },
+  {
+    "product_id": "P0038",
+    "category": "sports",
+    "price": 122.75,
+    "popularity_score": 0.4133,
+    "avg_rating": 3.18,
+    "days_since_launch": 866
+  },
+  {
+    "product_id": "P0039",
+    "category": "home",
+    "price": 209.77,
+    "popularity_score": 0.8249,
+    "avg_rating": 3.71,
+    "days_since_launch": 229
+  },
+  {
+    "product_id": "P0040",
+    "category": "sports",
+    "price": 218.92,
+    "popularity_score": 0.2527,
+    "avg_rating": 4.27,
+    "days_since_launch": 628
+  },
+  {
+    "product_id": "P0041",
+    "category": "apparel",
+    "price": 323.4,
+    "popularity_score": 0.6697,
+    "avg_rating": 4.48,
+    "days_since_launch": 233
+  },
+  {
+    "product_id": "P0042",
+    "category": "apparel",
+    "price": 209.47,
+    "popularity_score": 0.1264,
+    "avg_rating": 3.06,
+    "days_since_launch": 29
+  },
+  {
+    "product_id": "P0043",
+    "category": "home",
+    "price": 191.53,
+    "popularity_score": 0.0375,
+    "avg_rating": 4.21,
+    "days_since_launch": 353
+  },
+  {
+    "product_id": "P0044",
+    "category": "beauty",
+    "price": 324.38,
+    "popularity_score": 0.5229,
+    "avg_rating": 3.7,
+    "days_since_launch": 374
+  },
+  {
+    "product_id": "P0045",
+    "category": "electronics",
+    "price": 92.08,
+    "popularity_score": 0.0515,
+    "avg_rating": 3.39,
+    "days_since_launch": 210
+  },
+  {
+    "product_id": "P0046",
+    "category": "beauty",
+    "price": 251.51,
+    "popularity_score": 0.8106,
+    "avg_rating": 4.68,
+    "days_since_launch": 491
+  },
+  {
+    "product_id": "P0047",
+    "category": "home",
+    "price": 320.86,
+    "popularity_score": 0.0072,
+    "avg_rating": 4.32,
+    "days_since_launch": 398
+  },
+  {
+    "product_id": "P0048",
+    "category": "apparel",
+    "price": 193.82,
+    "popularity_score": 0.0319,
+    "avg_rating": 4.58,
+    "days_since_launch": 341
+  },
+  {
+    "product_id": "P0049",
+    "category": "electronics",
+    "price": 321.33,
+    "popularity_score": 0.9441,
+    "avg_rating": 3.79,
+    "days_since_launch": 412
+  },
+  {
+    "product_id": "P0050",
+    "category": "electronics",
+    "price": 291.3,
+    "popularity_score": 0.0289,
+    "avg_rating": 3.25,
+    "days_since_launch": 155
+  },
+  {
+    "product_id": "P0051",
+    "category": "sports",
+    "price": 362.42,
+    "popularity_score": 0.6504,
+    "avg_rating": 3.29,
+    "days_since_launch": 847
+  },
+  {
+    "product_id": "P0052",
+    "category": "sports",
+    "price": 392.22,
+    "popularity_score": 0.432,
+    "avg_rating": 3.7,
+    "days_since_launch": 562
+  },
+  {
+    "product_id": "P0053",
+    "category": "sports",
+    "price": 56.74,
+    "popularity_score": 0.0002,
+    "avg_rating": 4.94,
+    "days_since_launch": 666
+  },
+  {
+    "product_id": "P0054",
+    "category": "electronics",
+    "price": 213.0,
+    "popularity_score": 0.8717,
+    "avg_rating": 3.87,
+    "days_since_launch": 893
+  },
+  {
+    "product_id": "P0055",
+    "category": "apparel",
+    "price": 331.33,
+    "popularity_score": 0.0445,
+    "avg_rating": 3.5,
+    "days_since_launch": 300
+  },
+  {
+    "product_id": "P0056",
+    "category": "sports",
+    "price": 100.01,
+    "popularity_score": 0.3439,
+    "avg_rating": 3.52,
+    "days_since_launch": 430
+  },
+  {
+    "product_id": "P0057",
+    "category": "apparel",
+    "price": 29.06,
+    "popularity_score": 0.5475,
+    "avg_rating": 4.8,
+    "days_since_launch": 679
+  },
+  {
+    "product_id": "P0058",
+    "category": "sports",
+    "price": 326.94,
+    "popularity_score": 0.267,
+    "avg_rating": 4.65,
+    "days_since_launch": 900
+  },
+  {
+    "product_id": "P0059",
+    "category": "sports",
+    "price": 56.65,
+    "popularity_score": 0.0231,
+    "avg_rating": 4.02,
+    "days_since_launch": 894
+  },
+  {
+    "product_id": "P0060",
+    "category": "beauty",
+    "price": 311.72,
+    "popularity_score": 0.3703,
+    "avg_rating": 4.55,
+    "days_since_launch": 154
+  },
+  {
+    "product_id": "P0061",
+    "category": "apparel",
+    "price": 60.92,
+    "popularity_score": 0.3833,
+    "avg_rating": 3.24,
+    "days_since_launch": 64
+  },
+  {
+    "product_id": "P0062",
+    "category": "home",
+    "price": 274.52,
+    "popularity_score": 0.2817,
+    "avg_rating": 3.96,
+    "days_since_launch": 796
+  },
+  {
+    "product_id": "P0063",
+    "category": "electronics",
+    "price": 353.87,
+    "popularity_score": 0.0032,
+    "avg_rating": 3.38,
+    "days_since_launch": 44
+  },
+  {
+    "product_id": "P0064",
+    "category": "electronics",
+    "price": 205.55,
+    "popularity_score": 0.3155,
+    "avg_rating": 4.52,
+    "days_since_launch": 65
+  },
+  {
+    "product_id": "P0065",
+    "category": "beauty",
+    "price": 133.62,
+    "popularity_score": 0.9474,
+    "avg_rating": 4.21,
+    "days_since_launch": 205
+  },
+  {
+    "product_id": "P0066",
+    "category": "home",
+    "price": 183.68,
+    "popularity_score": 0.2844,
+    "avg_rating": 3.96,
+    "days_since_launch": 254
+  },
+  {
+    "product_id": "P0067",
+    "category": "sports",
+    "price": 351.23,
+    "popularity_score": 0.8877,
+    "avg_rating": 3.52,
+    "days_since_launch": 573
+  },
+  {
+    "product_id": "P0068",
+    "category": "apparel",
+    "price": 336.8,
+    "popularity_score": 0.0188,
+    "avg_rating": 3.24,
+    "days_since_launch": 453
+  },
+  {
+    "product_id": "P0069",
+    "category": "home",
+    "price": 33.66,
+    "popularity_score": 0.0579,
+    "avg_rating": 3.15,
+    "days_since_launch": 686
+  },
+  {
+    "product_id": "P0070",
+    "category": "home",
+    "price": 314.65,
+    "popularity_score": 0.8047,
+    "avg_rating": 3.31,
+    "days_since_launch": 734
+  },
+  {
+    "product_id": "P0071",
+    "category": "home",
+    "price": 61.48,
+    "popularity_score": 0.7794,
+    "avg_rating": 4.94,
+    "days_since_launch": 225
+  },
+  {
+    "product_id": "P0072",
+    "category": "electronics",
+    "price": 162.31,
+    "popularity_score": 0.2374,
+    "avg_rating": 4.98,
+    "days_since_launch": 853
+  },
+  {
+    "product_id": "P0073",
+    "category": "apparel",
+    "price": 68.78,
+    "popularity_score": 0.1862,
+    "avg_rating": 4.03,
+    "days_since_launch": 348
+  },
+  {
+    "product_id": "P0074",
+    "category": "beauty",
+    "price": 82.32,
+    "popularity_score": 0.1015,
+    "avg_rating": 4.44,
+    "days_since_launch": 20
+  },
+  {
+    "product_id": "P0075",
+    "category": "home",
+    "price": 223.85,
+    "popularity_score": 0.194,
+    "avg_rating": 3.04,
+    "days_since_launch": 340
+  },
+  {
+    "product_id": "P0076",
+    "category": "sports",
+    "price": 251.45,
+    "popularity_score": 0.2624,
+    "avg_rating": 3.13,
+    "days_since_launch": 808
+  },
+  {
+    "product_id": "P0077",
+    "category": "apparel",
+    "price": 388.82,
+    "popularity_score": 0.011,
+    "avg_rating": 3.53,
+    "days_since_launch": 41
+  },
+  {
+    "product_id": "P0078",
+    "category": "apparel",
+    "price": 111.83,
+    "popularity_score": 0.0168,
+    "avg_rating": 3.84,
+    "days_since_launch": 693
+  },
+  {
+    "product_id": "P0079",
+    "category": "home",
+    "price": 165.35,
+    "popularity_score": 0.2879,
+    "avg_rating": 4.03,
+    "days_since_launch": 507
+  },
+  {
+    "product_id": "P0080",
+    "category": "home",
+    "price": 40.34,
+    "popularity_score": 0.0033,
+    "avg_rating": 4.38,
+    "days_since_launch": 436
+  },
+  {
+    "product_id": "P0081",
+    "category": "electronics",
+    "price": 111.22,
+    "popularity_score": 0.0003,
+    "avg_rating": 3.18,
+    "days_since_launch": 267
+  },
+  {
+    "product_id": "P0082",
+    "category": "electronics",
+    "price": 245.23,
+    "popularity_score": 0.0495,
+    "avg_rating": 3.53,
+    "days_since_launch": 125
+  },
+  {
+    "product_id": "P0083",
+    "category": "beauty",
+    "price": 9.56,
+    "popularity_score": 0.9886,
+    "avg_rating": 3.84,
+    "days_since_launch": 275
+  },
+  {
+    "product_id": "P0084",
+    "category": "sports",
+    "price": 56.04,
+    "popularity_score": 0.2776,
+    "avg_rating": 3.48,
+    "days_since_launch": 113
+  },
+  {
+    "product_id": "P0085",
+    "category": "apparel",
+    "price": 108.45,
+    "popularity_score": 0.0328,
+    "avg_rating": 4.86,
+    "days_since_launch": 644
+  },
+  {
+    "product_id": "P0086",
+    "category": "home",
+    "price": 214.78,
+    "popularity_score": 0.0424,
+    "avg_rating": 3.89,
+    "days_since_launch": 689
+  },
+  {
+    "product_id": "P0087",
+    "category": "apparel",
+    "price": 111.86,
+    "popularity_score": 0.6459,
+    "avg_rating": 4.99,
+    "days_since_launch": 38
+  },
+  {
+    "product_id": "P0088",
+    "category": "electronics",
+    "price": 12.28,
+    "popularity_score": 0.2557,
+    "avg_rating": 4.96,
+    "days_since_launch": 527
+  },
+  {
+    "product_id": "P0089",
+    "category": "beauty",
+    "price": 102.04,
+    "popularity_score": 0.1999,
+    "avg_rating": 4.32,
+    "days_since_launch": 666
+  },
+  {
+    "product_id": "P0090",
+    "category": "beauty",
+    "price": 264.32,
+    "popularity_score": 0.298,
+    "avg_rating": 4.78,
+    "days_since_launch": 519
+  },
+  {
+    "product_id": "P0091",
+    "category": "home",
+    "price": 276.66,
+    "popularity_score": 0.9652,
+    "avg_rating": 3.69,
+    "days_since_launch": 853
+  },
+  {
+    "product_id": "P0092",
+    "category": "apparel",
+    "price": 164.86,
+    "popularity_score": 0.1208,
+    "avg_rating": 3.11,
+    "days_since_launch": 133
+  },
+  {
+    "product_id": "P0093",
+    "category": "electronics",
+    "price": 32.94,
+    "popularity_score": 0.5489,
+    "avg_rating": 3.51,
+    "days_since_launch": 168
+  },
+  {
+    "product_id": "P0094",
+    "category": "electronics",
+    "price": 38.37,
+    "popularity_score": 0.7077,
+    "avg_rating": 4.74,
+    "days_since_launch": 687
+  },
+  {
+    "product_id": "P0095",
+    "category": "home",
+    "price": 241.52,
+    "popularity_score": 0.4798,
+    "avg_rating": 3.09,
+    "days_since_launch": 190
+  },
+  {
+    "product_id": "P0096",
+    "category": "apparel",
+    "price": 111.27,
+    "popularity_score": 0.0,
+    "avg_rating": 3.73,
+    "days_since_launch": 337
+  },
+  {
+    "product_id": "P0097",
+    "category": "sports",
+    "price": 132.8,
+    "popularity_score": 0.0012,
+    "avg_rating": 4.76,
+    "days_since_launch": 224
+  },
+  {
+    "product_id": "P0098",
+    "category": "home",
+    "price": 77.27,
+    "popularity_score": 0.1124,
+    "avg_rating": 3.17,
+    "days_since_launch": 286
+  },
+  {
+    "product_id": "P0099",
+    "category": "sports",
+    "price": 264.13,
+    "popularity_score": 0.0616,
+    "avg_rating": 4.55,
+    "days_since_launch": 94
+  },
+  {
+    "product_id": "P0100",
+    "category": "home",
+    "price": 327.73,
+    "popularity_score": 0.0207,
+    "avg_rating": 4.17,
+    "days_since_launch": 404
+  },
+  {
+    "product_id": "P0101",
+    "category": "electronics",
+    "price": 123.36,
+    "popularity_score": 0.3965,
+    "avg_rating": 3.17,
+    "days_since_launch": 542
+  },
+  {
+    "product_id": "P0102",
+    "category": "apparel",
+    "price": 264.73,
+    "popularity_score": 0.5126,
+    "avg_rating": 4.76,
+    "days_since_launch": 399
+  },
+  {
+    "product_id": "P0103",
+    "category": "home",
+    "price": 289.67,
+    "popularity_score": 0.2442,
+    "avg_rating": 3.57,
+    "days_since_launch": 634
+  },
+  {
+    "product_id": "P0104",
+    "category": "apparel",
+    "price": 22.3,
+    "popularity_score": 0.6977,
+    "avg_rating": 4.78,
+    "days_since_launch": 643
+  },
+  {
+    "product_id": "P0105",
+    "category": "beauty",
+    "price": 294.87,
+    "popularity_score": 0.6597,
+    "avg_rating": 3.28,
+    "days_since_launch": 537
+  },
+  {
+    "product_id": "P0106",
+    "category": "sports",
+    "price": 229.55,
+    "popularity_score": 0.6608,
+    "avg_rating": 3.03,
+    "days_since_launch": 703
+  },
+  {
+    "product_id": "P0107",
+    "category": "sports",
+    "price": 320.2,
+    "popularity_score": 0.5058,
+    "avg_rating": 4.91,
+    "days_since_launch": 659
+  },
+  {
+    "product_id": "P0108",
+    "category": "apparel",
+    "price": 38.61,
+    "popularity_score": 0.0018,
+    "avg_rating": 4.27,
+    "days_since_launch": 108
+  },
+  {
+    "product_id": "P0109",
+    "category": "beauty",
+    "price": 335.15,
+    "popularity_score": 0.312,
+    "avg_rating": 4.26,
+    "days_since_launch": 642
+  },
+  {
+    "product_id": "P0110",
+    "category": "sports",
+    "price": 273.86,
+    "popularity_score": 0.2394,
+    "avg_rating": 3.01,
+    "days_since_launch": 817
+  },
+  {
+    "product_id": "P0111",
+    "category": "electronics",
+    "price": 300.56,
+    "popularity_score": 0.253,
+    "avg_rating": 4.07,
+    "days_since_launch": 676
+  },
+  {
+    "product_id": "P0112",
+    "category": "sports",
+    "price": 31.09,
+    "popularity_score": 0.5429,
+    "avg_rating": 3.5,
+    "days_since_launch": 77
+  },
+  {
+    "product_id": "P0113",
+    "category": "home",
+    "price": 97.74,
+    "popularity_score": 0.5722,
+    "avg_rating": 3.46,
+    "days_since_launch": 666
+  },
+  {
+    "product_id": "P0114",
+    "category": "beauty",
+    "price": 200.11,
+    "popularity_score": 0.1464,
+    "avg_rating": 3.96,
+    "days_since_launch": 701
+  },
+  {
+    "product_id": "P0115",
+    "category": "home",
+    "price": 307.95,
+    "popularity_score": 0.3807,
+    "avg_rating": 4.29,
+    "days_since_launch": 80
+  },
+  {
+    "product_id": "P0116",
+    "category": "sports",
+    "price": 63.23,
+    "popularity_score": 0.0645,
+    "avg_rating": 4.49,
+    "days_since_launch": 312
+  },
+  {
+    "product_id": "P0117",
+    "category": "sports",
+    "price": 229.27,
+    "popularity_score": 0.0002,
+    "avg_rating": 3.12,
+    "days_since_launch": 276
+  },
+  {
+    "product_id": "P0118",
+    "category": "electronics",
+    "price": 278.41,
+    "popularity_score": 0.4566,
+    "avg_rating": 3.58,
+    "days_since_launch": 529
+  },
+  {
+    "product_id": "P0119",
+    "category": "home",
+    "price": 188.54,
+    "popularity_score": 0.2175,
+    "avg_rating": 3.24,
+    "days_since_launch": 563
+  },
+  {
+    "product_id": "P0120",
+    "category": "apparel",
+    "price": 128.11,
+    "popularity_score": 0.0074,
+    "avg_rating": 3.95,
+    "days_since_launch": 297
+  },
+  {
+    "product_id": "P0121",
+    "category": "beauty",
+    "price": 35.2,
+    "popularity_score": 0.2567,
+    "avg_rating": 4.99,
+    "days_since_launch": 276
+  },
+  {
+    "product_id": "P0122",
+    "category": "beauty",
+    "price": 87.89,
+    "popularity_score": 0.8941,
+    "avg_rating": 3.42,
+    "days_since_launch": 596
+  },
+  {
+    "product_id": "P0123",
+    "category": "electronics",
+    "price": 60.99,
+    "popularity_score": 0.2746,
+    "avg_rating": 4.91,
+    "days_since_launch": 136
+  },
+  {
+    "product_id": "P0124",
+    "category": "sports",
+    "price": 328.99,
+    "popularity_score": 0.2588,
+    "avg_rating": 4.77,
+    "days_since_launch": 721
+  },
+  {
+    "product_id": "P0125",
+    "category": "home",
+    "price": 96.4,
+    "popularity_score": 0.8059,
+    "avg_rating": 3.97,
+    "days_since_launch": 26
+  },
+  {
+    "product_id": "P0126",
+    "category": "apparel",
+    "price": 6.42,
+    "popularity_score": 0.2418,
+    "avg_rating": 3.9,
+    "days_since_launch": 310
+  },
+  {
+    "product_id": "P0127",
+    "category": "apparel",
+    "price": 169.39,
+    "popularity_score": 0.1415,
+    "avg_rating": 3.24,
+    "days_since_launch": 340
+  },
+  {
+    "product_id": "P0128",
+    "category": "electronics",
+    "price": 133.2,
+    "popularity_score": 0.1144,
+    "avg_rating": 3.8,
+    "days_since_launch": 201
+  },
+  {
+    "product_id": "P0129",
+    "category": "electronics",
+    "price": 361.12,
+    "popularity_score": 0.084,
+    "avg_rating": 3.74,
+    "days_since_launch": 403
+  },
+  {
+    "product_id": "P0130",
+    "category": "beauty",
+    "price": 399.52,
+    "popularity_score": 0.3471,
+    "avg_rating": 3.72,
+    "days_since_launch": 439
+  },
+  {
+    "product_id": "P0131",
+    "category": "home",
+    "price": 342.43,
+    "popularity_score": 0.0788,
+    "avg_rating": 3.1,
+    "days_since_launch": 678
+  },
+  {
+    "product_id": "P0132",
+    "category": "home",
+    "price": 255.81,
+    "popularity_score": 0.0222,
+    "avg_rating": 4.94,
+    "days_since_launch": 447
+  },
+  {
+    "product_id": "P0133",
+    "category": "sports",
+    "price": 129.66,
+    "popularity_score": 0.5978,
+    "avg_rating": 4.57,
+    "days_since_launch": 439
+  },
+  {
+    "product_id": "P0134",
+    "category": "electronics",
+    "price": 325.73,
+    "popularity_score": 0.398,
+    "avg_rating": 4.83,
+    "days_since_launch": 568
+  },
+  {
+    "product_id": "P0135",
+    "category": "sports",
+    "price": 85.36,
+    "popularity_score": 0.0065,
+    "avg_rating": 4.87,
+    "days_since_launch": 421
+  },
+  {
+    "product_id": "P0136",
+    "category": "beauty",
+    "price": 247.89,
+    "popularity_score": 0.0192,
+    "avg_rating": 4.74,
+    "days_since_launch": 498
+  },
+  {
+    "product_id": "P0137",
+    "category": "electronics",
+    "price": 365.2,
+    "popularity_score": 0.3026,
+    "avg_rating": 3.34,
+    "days_since_launch": 425
+  },
+  {
+    "product_id": "P0138",
+    "category": "home",
+    "price": 116.29,
+    "popularity_score": 0.0654,
+    "avg_rating": 4.48,
+    "days_since_launch": 669
+  },
+  {
+    "product_id": "P0139",
+    "category": "home",
+    "price": 165.45,
+    "popularity_score": 0.057,
+    "avg_rating": 3.97,
+    "days_since_launch": 685
+  },
+  {
+    "product_id": "P0140",
+    "category": "beauty",
+    "price": 52.3,
+    "popularity_score": 0.4137,
+    "avg_rating": 3.15,
+    "days_since_launch": 513
+  },
+  {
+    "product_id": "P0141",
+    "category": "beauty",
+    "price": 222.4,
+    "popularity_score": 0.2052,
+    "avg_rating": 3.67,
+    "days_since_launch": 778
+  },
+  {
+    "product_id": "P0142",
+    "category": "beauty",
+    "price": 173.83,
+    "popularity_score": 0.3001,
+    "avg_rating": 3.49,
+    "days_since_launch": 179
+  },
+  {
+    "product_id": "P0143",
+    "category": "home",
+    "price": 224.57,
+    "popularity_score": 0.1019,
+    "avg_rating": 3.74,
+    "days_since_launch": 829
+  },
+  {
+    "product_id": "P0144",
+    "category": "sports",
+    "price": 84.85,
+    "popularity_score": 0.0004,
+    "avg_rating": 4.74,
+    "days_since_launch": 393
+  },
+  {
+    "product_id": "P0145",
+    "category": "beauty",
+    "price": 299.61,
+    "popularity_score": 0.0441,
+    "avg_rating": 3.54,
+    "days_since_launch": 771
+  },
+  {
+    "product_id": "P0146",
+    "category": "electronics",
+    "price": 201.77,
+    "popularity_score": 0.3298,
+    "avg_rating": 3.72,
+    "days_since_launch": 704
+  },
+  {
+    "product_id": "P0147",
+    "category": "sports",
+    "price": 214.04,
+    "popularity_score": 0.6246,
+    "avg_rating": 4.7,
+    "days_since_launch": 95
+  },
+  {
+    "product_id": "P0148",
+    "category": "home",
+    "price": 359.23,
+    "popularity_score": 0.1479,
+    "avg_rating": 4.29,
+    "days_since_launch": 443
+  },
+  {
+    "product_id": "P0149",
+    "category": "home",
+    "price": 340.23,
+    "popularity_score": 0.7619,
+    "avg_rating": 3.04,
+    "days_since_launch": 34
+  },
+  {
+    "product_id": "P0150",
+    "category": "beauty",
+    "price": 285.26,
+    "popularity_score": 0.8023,
+    "avg_rating": 3.95,
+    "days_since_launch": 602
+  },
+  {
+    "product_id": "P0151",
+    "category": "beauty",
+    "price": 5.07,
+    "popularity_score": 0.1533,
+    "avg_rating": 4.85,
+    "days_since_launch": 846
+  },
+  {
+    "product_id": "P0152",
+    "category": "sports",
+    "price": 342.91,
+    "popularity_score": 0.9453,
+    "avg_rating": 3.5,
+    "days_since_launch": 112
+  },
+  {
+    "product_id": "P0153",
+    "category": "apparel",
+    "price": 65.98,
+    "popularity_score": 0.2729,
+    "avg_rating": 4.36,
+    "days_since_launch": 846
+  },
+  {
+    "product_id": "P0154",
+    "category": "beauty",
+    "price": 38.58,
+    "popularity_score": 0.6035,
+    "avg_rating": 3.0,
+    "days_since_launch": 129
+  },
+  {
+    "product_id": "P0155",
+    "category": "apparel",
+    "price": 229.91,
+    "popularity_score": 0.0014,
+    "avg_rating": 4.43,
+    "days_since_launch": 132
+  },
+  {
+    "product_id": "P0156",
+    "category": "home",
+    "price": 213.66,
+    "popularity_score": 0.1913,
+    "avg_rating": 4.53,
+    "days_since_launch": 102
+  },
+  {
+    "product_id": "P0157",
+    "category": "electronics",
+    "price": 123.64,
+    "popularity_score": 0.8903,
+    "avg_rating": 3.38,
+    "days_since_launch": 268
+  },
+  {
+    "product_id": "P0158",
+    "category": "apparel",
+    "price": 317.24,
+    "popularity_score": 0.0,
+    "avg_rating": 4.07,
+    "days_since_launch": 472
+  },
+  {
+    "product_id": "P0159",
+    "category": "home",
+    "price": 383.78,
+    "popularity_score": 0.4155,
+    "avg_rating": 4.77,
+    "days_since_launch": 487
+  },
+  {
+    "product_id": "P0160",
+    "category": "sports",
+    "price": 97.73,
+    "popularity_score": 0.061,
+    "avg_rating": 4.92,
+    "days_since_launch": 722
+  },
+  {
+    "product_id": "P0161",
+    "category": "home",
+    "price": 26.85,
+    "popularity_score": 0.0377,
+    "avg_rating": 4.77,
+    "days_since_launch": 663
+  },
+  {
+    "product_id": "P0162",
+    "category": "beauty",
+    "price": 37.03,
+    "popularity_score": 0.0519,
+    "avg_rating": 3.85,
+    "days_since_launch": 380
+  },
+  {
+    "product_id": "P0163",
+    "category": "apparel",
+    "price": 199.71,
+    "popularity_score": 0.4842,
+    "avg_rating": 4.44,
+    "days_since_launch": 372
+  },
+  {
+    "product_id": "P0164",
+    "category": "beauty",
+    "price": 83.24,
+    "popularity_score": 0.6353,
+    "avg_rating": 4.48,
+    "days_since_launch": 517
+  },
+  {
+    "product_id": "P0165",
+    "category": "electronics",
+    "price": 86.06,
+    "popularity_score": 0.9406,
+    "avg_rating": 3.62,
+    "days_since_launch": 840
+  },
+  {
+    "product_id": "P0166",
+    "category": "apparel",
+    "price": 96.17,
+    "popularity_score": 0.049,
+    "avg_rating": 4.52,
+    "days_since_launch": 303
+  },
+  {
+    "product_id": "P0167",
+    "category": "electronics",
+    "price": 381.01,
+    "popularity_score": 0.2458,
+    "avg_rating": 3.37,
+    "days_since_launch": 229
+  },
+  {
+    "product_id": "P0168",
+    "category": "beauty",
+    "price": 169.73,
+    "popularity_score": 0.4426,
+    "avg_rating": 4.9,
+    "days_since_launch": 150
+  },
+  {
+    "product_id": "P0169",
+    "category": "beauty",
+    "price": 26.47,
+    "popularity_score": 0.0006,
+    "avg_rating": 4.19,
+    "days_since_launch": 426
+  },
+  {
+    "product_id": "P0170",
+    "category": "electronics",
+    "price": 285.39,
+    "popularity_score": 0.0339,
+    "avg_rating": 3.9,
+    "days_since_launch": 730
+  },
+  {
+    "product_id": "P0171",
+    "category": "home",
+    "price": 294.43,
+    "popularity_score": 0.9951,
+    "avg_rating": 4.86,
+    "days_since_launch": 338
+  },
+  {
+    "product_id": "P0172",
+    "category": "apparel",
+    "price": 78.28,
+    "popularity_score": 0.8759,
+    "avg_rating": 4.49,
+    "days_since_launch": 33
+  },
+  {
+    "product_id": "P0173",
+    "category": "home",
+    "price": 267.45,
+    "popularity_score": 0.1434,
+    "avg_rating": 3.75,
+    "days_since_launch": 340
+  },
+  {
+    "product_id": "P0174",
+    "category": "beauty",
+    "price": 71.86,
+    "popularity_score": 0.0,
+    "avg_rating": 3.56,
+    "days_since_launch": 360
+  },
+  {
+    "product_id": "P0175",
+    "category": "beauty",
+    "price": 382.43,
+    "popularity_score": 0.0153,
+    "avg_rating": 4.93,
+    "days_since_launch": 213
+  },
+  {
+    "product_id": "P0176",
+    "category": "beauty",
+    "price": 145.87,
+    "popularity_score": 0.675,
+    "avg_rating": 4.64,
+    "days_since_launch": 443
+  },
+  {
+    "product_id": "P0177",
+    "category": "electronics",
+    "price": 24.46,
+    "popularity_score": 0.2242,
+    "avg_rating": 3.75,
+    "days_since_launch": 458
+  },
+  {
+    "product_id": "P0178",
+    "category": "apparel",
+    "price": 132.71,
+    "popularity_score": 0.5436,
+    "avg_rating": 3.95,
+    "days_since_launch": 647
+  },
+  {
+    "product_id": "P0179",
+    "category": "beauty",
+    "price": 102.97,
+    "popularity_score": 0.3911,
+    "avg_rating": 3.81,
+    "days_since_launch": 385
+  },
+  {
+    "product_id": "P0180",
+    "category": "electronics",
+    "price": 188.3,
+    "popularity_score": 0.6454,
+    "avg_rating": 3.12,
+    "days_since_launch": 200
+  },
+  {
+    "product_id": "P0181",
+    "category": "electronics",
+    "price": 359.93,
+    "popularity_score": 0.115,
+    "avg_rating": 3.54,
+    "days_since_launch": 632
+  },
+  {
+    "product_id": "P0182",
+    "category": "electronics",
+    "price": 108.56,
+    "popularity_score": 0.5136,
+    "avg_rating": 3.63,
+    "days_since_launch": 283
+  },
+  {
+    "product_id": "P0183",
+    "category": "home",
+    "price": 6.49,
+    "popularity_score": 0.571,
+    "avg_rating": 4.83,
+    "days_since_launch": 650
+  },
+  {
+    "product_id": "P0184",
+    "category": "electronics",
+    "price": 14.58,
+    "popularity_score": 0.0547,
+    "avg_rating": 3.95,
+    "days_since_launch": 477
+  },
+  {
+    "product_id": "P0185",
+    "category": "beauty",
+    "price": 316.97,
+    "popularity_score": 0.8346,
+    "avg_rating": 4.63,
+    "days_since_launch": 136
+  },
+  {
+    "product_id": "P0186",
+    "category": "beauty",
+    "price": 77.26,
+    "popularity_score": 0.6441,
+    "avg_rating": 4.48,
+    "days_since_launch": 843
+  },
+  {
+    "product_id": "P0187",
+    "category": "apparel",
+    "price": 244.87,
+    "popularity_score": 0.1075,
+    "avg_rating": 3.64,
+    "days_since_launch": 371
+  },
+  {
+    "product_id": "P0188",
+    "category": "sports",
+    "price": 36.21,
+    "popularity_score": 0.0389,
+    "avg_rating": 4.51,
+    "days_since_launch": 254
+  },
+  {
+    "product_id": "P0189",
+    "category": "beauty",
+    "price": 30.57,
+    "popularity_score": 0.0011,
+    "avg_rating": 4.11,
+    "days_since_launch": 334
+  },
+  {
+    "product_id": "P0190",
+    "category": "apparel",
+    "price": 392.2,
+    "popularity_score": 0.7805,
+    "avg_rating": 4.98,
+    "days_since_launch": 272
+  },
+  {
+    "product_id": "P0191",
+    "category": "sports",
+    "price": 38.21,
+    "popularity_score": 0.0093,
+    "avg_rating": 4.0,
+    "days_since_launch": 727
+  },
+  {
+    "product_id": "P0192",
+    "category": "beauty",
+    "price": 73.41,
+    "popularity_score": 0.0177,
+    "avg_rating": 3.92,
+    "days_since_launch": 691
+  },
+  {
+    "product_id": "P0193",
+    "category": "apparel",
+    "price": 300.45,
+    "popularity_score": 0.7174,
+    "avg_rating": 4.33,
+    "days_since_launch": 125
+  },
+  {
+    "product_id": "P0194",
+    "category": "home",
+    "price": 121.04,
+    "popularity_score": 0.3214,
+    "avg_rating": 3.75,
+    "days_since_launch": 756
+  },
+  {
+    "product_id": "P0195",
+    "category": "home",
+    "price": 83.68,
+    "popularity_score": 0.0612,
+    "avg_rating": 3.49,
+    "days_since_launch": 158
+  },
+  {
+    "product_id": "P0196",
+    "category": "home",
+    "price": 354.25,
+    "popularity_score": 0.3344,
+    "avg_rating": 3.65,
+    "days_since_launch": 406
+  },
+  {
+    "product_id": "P0197",
+    "category": "home",
+    "price": 397.02,
+    "popularity_score": 0.2574,
+    "avg_rating": 3.46,
+    "days_since_launch": 828
+  },
+  {
+    "product_id": "P0198",
+    "category": "electronics",
+    "price": 263.06,
+    "popularity_score": 0.982,
+    "avg_rating": 3.2,
+    "days_since_launch": 487
+  },
+  {
+    "product_id": "P0199",
+    "category": "apparel",
+    "price": 337.02,
+    "popularity_score": 0.8361,
+    "avg_rating": 3.08,
+    "days_since_launch": 301
+  },
+  {
+    "product_id": "P0200",
+    "category": "apparel",
+    "price": 52.09,
+    "popularity_score": 0.0359,
+    "avg_rating": 4.95,
+    "days_since_launch": 598
+  }
+]

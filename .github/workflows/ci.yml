@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Lint + test (offline)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install project + dev deps
+        run: uv pip install --system -e ".[dev,dbt]"
+
+      - name: Ruff lint
+        run: ruff check .
+
+      - name: Ruff format check
+        run: ruff format --check .
+
+      - name: Train ranker (produces artifacts/)
+        run: python scripts/train_ranker.py
+
+      - name: Run tests
+        run: pytest -v
+
+      - name: dbt parse (DuckDB target)
+        working-directory: dbt
+        env:
+          DBT_PROFILES_DIR: .
+          PULSECART_DUCKDB_PATH: ../artifacts/pulsecart.duckdb
+        run: |
+          cp profiles.example.yml profiles.yml
+          # Seed a warehouse so dbt has something to compile against
+          python ../scripts/run_local_demo.py
+          dbt parse
+          dbt build
+
+  terraform:
+    name: Terraform fmt + validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.7.5
+      - name: fmt check
+        working-directory: infra
+        run: terraform fmt -check
+      - name: validate
+        working-directory: infra
+        # Skip backend (needs S3) but still validate resource shapes
+        run: |
+          terraform init -backend=false
+          terraform validate

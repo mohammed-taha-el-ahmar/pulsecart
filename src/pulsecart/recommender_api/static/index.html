@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PulseCart · Live Recommendations</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <div class="brand">
+            <span class="dot"></span>
+            <h1>PulseCart</h1>
+            <span class="tag">real-time clickstream personalization</span>
+        </div>
+        <div class="mode-badge" id="mode-badge">mode: —</div>
+    </header>
+
+    <section class="stats">
+        <div class="stat"><span class="label">events scored</span><span class="value" id="n-events">—</span></div>
+        <div class="stat"><span class="label">users seen</span><span class="value" id="n-users">—</span></div>
+        <div class="stat"><span class="label">sessions</span><span class="value" id="n-sessions">—</span></div>
+        <div class="stat"><span class="label">avg scorer latency</span><span class="value" id="avg-latency">—</span></div>
+    </section>
+
+    <section class="lookup">
+        <h2>Look up a user</h2>
+        <p class="hint">Enter a user_id (e.g. <code>U0042</code>) to fetch their most recent top-K recommendations.</p>
+        <div class="input-row">
+            <input type="text" id="user-input" placeholder="U0042" autocomplete="off">
+            <button id="lookup-btn">Recommend</button>
+        </div>
+        <div id="result"></div>
+    </section>
+
+    <footer>
+        <p>trace_id propagates producer → Lambda → SageMaker → Redshift row.<br>
+        Every recommendation on this page is walkable back to the click that triggered it.</p>
+    </footer>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

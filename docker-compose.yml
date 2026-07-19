@@ -1,0 +1,42 @@
+services:
+  # 1. Run the local demo pipeline once, populating DuckDB.
+  seeder:
+    build: .
+    command: >
+      sh -c "python scripts/train_ranker.py &&
+             python scripts/run_local_demo.py"
+    environment:
+      PULSECART_MODE: local
+      PULSECART_DUCKDB_PATH: /data/pulsecart.duckdb
+      PULSECART_MODEL_PATH: /app/artifacts/ranker.joblib
+      PULSECART_CATALOG_PATH: /app/artifacts/product_catalog.json
+    volumes:
+      - warehouse:/data
+      - ./artifacts:/app/artifacts
+
+  # 2. Recommendation API + dashboard.
+  api:
+    build: .
+    command: uvicorn pulsecart.recommender_api.app:app --host 0.0.0.0 --port 8080
+    environment:
+      PULSECART_MODE: local
+      PULSECART_DUCKDB_PATH: /data/pulsecart.duckdb
+    ports:
+      - "8080:8080"
+    volumes:
+      - warehouse:/data
+    depends_on:
+      seeder:
+        condition: service_completed_successfully
+
+  # 3. Ingestion API — accepts new clicks via POST /events (for extending the demo).
+  ingest:
+    build: .
+    command: uvicorn pulsecart.producer.api:app --host 0.0.0.0 --port 8081
+    environment:
+      PULSECART_MODE: local
+    ports:
+      - "8081:8081"
+
+volumes:
+  warehouse:

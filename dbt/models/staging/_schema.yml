@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: stg_enriched_events
+    description: Typed extraction from the raw streaming MV. All downstream marts build on this.
+    columns:
+      - name: event_id
+        description: Immutable click identifier.
+        tests:
+          - not_null
+          - unique
+      - name: trace_id
+        description: End-to-end trace ID; walks back to the producing HTTP request.
+        tests:
+          - not_null

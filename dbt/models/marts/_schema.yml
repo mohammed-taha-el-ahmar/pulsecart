@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: session_funnel
+    description: One row per session with funnel counters.
+    columns:
+      - name: session_id
+        tests:
+          - unique
+          - not_null
+      - name: total_events
+        tests:
+          - not_null
+
+  - name: recommendation_coverage
+    description: Per-user, per-day scoring coverage + latency.
+    columns:
+      - name: user_id
+        tests:
+          - not_null
+      - name: n_scored_events
+        tests:
+          - not_null
